@@ -1,10 +1,3 @@
----
-layout: default
----
-
----
-layout: default
----
 
 # About Me
 
@@ -30,6 +23,5 @@ sareena[at]cse[dot]iitm[dot]ac[dot]in
 
 
 ```
-The final element.
 ```
 
