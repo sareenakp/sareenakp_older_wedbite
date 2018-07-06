@@ -13,7 +13,7 @@ security in Industrial Control Systems.
 
 # Awards
 
-* Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2017.
+* [Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2017.](https://csaw.engineering.nyu.edu/csaw17-winners#ESC)
 
 
 # Publications
