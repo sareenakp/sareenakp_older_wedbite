@@ -4,6 +4,9 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 the area of network security. Prior to joining Ph.D. in 2015, I have worked in Hewlett-Packard,Bangalore, India (2004-2006) and Identive Technologies, Chennai, India (2006-2014). During the
 period, I have gained extensive experience in the development of embedded products and system software. Specifically, I was involved in the development of drivers for storage SCSI controller
 cards, and smart card reader devices. I have also worked immensely in the firmware development of physical access control systems.
+
+
+
 My present research areas are the development of novel DDoS mitigation strategies, traceback of DDoS attackers, encrypted and unencrypted traffic analysis for malware detection, and cyber
 security in Industrial Control Systems.
 
@@ -21,7 +24,7 @@ security in Industrial Control Systems.
 # Academic Details
 * B.E (2004) in Computer Science and Engineering from Bangalore University, India. 
 
-#Contact
+# Contact
 sareena[at]cse[dot]iitm[dot]ac[dot]in
 
 
