@@ -2,7 +2,7 @@
 # About Me
 
 
-I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras, broadly working in the area of network security. I am being advised by Prof. Kamakoti Veezhinathan. Prior to joining Ph.D. in 2015, I have worked in Hewlett-Packard,Bangalore, India (2004-2006), and Identive Technologies, Chennai, India (2006-2014), where I was involved in the development of embedded products and system software. Specifically, I was involved in the development of drivers for storage SCSI controllers, and firmware and drivers for smart card reader and physical access control systems. My present research areas are the development of novel DDoS mitigation strategies, traceback of DDoS attackers, early malware detection, and cyber security in Industrial Control Systems.
+I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras, broadly working in the area of network security. I am being advised by Prof. Kamakoti Veezhinathan. Prior to joining Ph.D., I have worked in Hewlett-Packard,Bangalore, India (2004-2006), and Identive Technologies, Chennai, India (2006-2014), where I was involved in the development of embedded products and system software. Specifically, I was involved in the development of drivers for storage SCSI controllers, and firmware and drivers for smart card reader and physical access control systems. My present research areas include the development of novel DDoS mitigation strategies, traceback of DDoS attackers, early malware detection, and cyber security in Industrial Control Systems.
 
 
 # Awards
@@ -19,6 +19,13 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 *   “Early Malware Detection using Traffic Analysis” at 8th International Conference on Security, Privacy, and Applied Cryptography Engineering (SPACE) 2018, IIT Kanpur.
 
 *   “A Secure Framework for Quick and Effective DDoS Mitigation”, at ISEA Asia Security & Privacy Conference (ASPRC) 2017, NIT Surat, India. 
+
+# Program Committees and Other Responsibilities
+
+* Poster Jury at [IEEE Security and Privacy 2019.](https://www.ieee-security.org/TC/SP2019/cfposters.html)
+* Student PC in [IEEE Secrity and Privacy, 2019.](https://www.ieee-security.org/TC/SP2019/studentpc.html)
+* Shadow PC in [ACM Internet Measurement Conference, 2018.](https://conferences.sigcomm.org/imc/2018/shadow/)
+
 
 # Academic Details
 * B.E (2004) in Computer Science and Engineering from Bangalore University, India. 
