@@ -34,7 +34,7 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 
 * [Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2017.](https://csaw.engineering.nyu.edu/csaw17-winners#ESC)
 
-# Technical Skilss
+# Technical Skills
 
 * Windows and Linux driver development
 * Programmng Languages: Python, Java, C, C++
