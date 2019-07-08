@@ -9,6 +9,19 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 
 * [Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2017.](https://csaw.engineering.nyu.edu/csaw17-winners#ESC)
 
+# Ongoing Research
+
+* Net-Police: A Network Patrolling Service for Effective Mitigation of Volumetric DDoS Attacks.
+
+* Early Malware Detecion using Network Traffic Analysis.
+
+* Jugaad : A Low-Cost Real-World Testbed for Network Experiments.
+
+* Eradicator: An Integrated Approach for Defense against Cyber Attacks in Industrial Control Systems, 
+
+* Kernel Level Implementation of SCION, a future Internet Architecture.
+
+
 
 # Publications and Posters
 
@@ -20,7 +33,7 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 
 *   “A Secure Framework for Quick and Effective DDoS Mitigation”, at ISEA Asia Security & Privacy Conference (ASPRC) 2017, NIT Surat, India. 
 
-# Program Committees and Other Responsibilities
+# Student Program Committees
 
 * Poster Jury at [IEEE Security and Privacy 2019.](https://www.ieee-security.org/TC/SP2019/cfposters.html)
 * Student PC in [IEEE Secrity and Privacy, 2019.](https://www.ieee-security.org/TC/SP2019/studentpc.html)
