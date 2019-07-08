@@ -1,5 +1,10 @@
 
 # About Me
+
+
+I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras, broadly working in the area of network security. I am being advised by Prof. Kamakoti Veezhinathan. Prior to joining Ph.D. in 2015, I have worked in Hewlett-Packard,Bangalore, India (2004-2006), and Identive Technologies, Chennai, India (2006-2014), where I was involved in the development of embedded products and system software. Specifically, I was involved in the development of drivers for storage SCSI controllers, and firmware and drivers for smart card reader and physical access control systems. My present research areas are the development of novel DDoS mitigation strategies, traceback of DDoS attackers, early malware detection, and cyber
+security in Industrial Control Systems.
+
 I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Science and Engineering at the Indian Institute of Technology Madras, Chennai. I am currently working in
 the area of network security. Prior to joining Ph.D. in 2015, I have worked in Hewlett-Packard,Bangalore, India (2004-2006) and Identive Technologies, Chennai, India (2006-2014). During the
 period, I have gained extensive experience in the development of embedded products and system software. Specifically, I was involved in the development of drivers for storage SCSI controller
