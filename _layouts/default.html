@@ -13,19 +13,24 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+     <!-- <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2> -->
       
+       <div class="row">
               <div align="left" class="col-md-1">
             <a target="_blank" href="sareena.jpg" width="280">
                 <img id="mobile-img" src="sareena.jpg" width="280" border="0" alt=""></a>
         </div>
-      
-                    <div align="center" class="col-md-1">
-      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+         
+         <div class="column", align = "left" class="col-md-3">
+           
+                 <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        </div>
+         
+         </div>
+</div> 
       
+
       
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
