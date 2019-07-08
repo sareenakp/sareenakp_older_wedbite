@@ -31,7 +31,7 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 
 *   “Early Malware Detection using Traffic Analysis” at 8th International Conference on Security, Privacy, and Applied Cryptography Engineering (SPACE) 2018, IIT Kanpur.
 
-*   “A Secure Framework for Quick and Effective DDoS Mitigation”, at ISEA Asia Security & Privacy Conference (ASPRC) 2017, NIT Surat, India. 
+*   “A Secure Framework for Quick and Effective DDoS Mitigation”, at PhD Conclave, ISEA Asia Security & Privacy Conference (ASPRC) 2017, NIT Surat, India. 
 
 # Student Program Committees
 
@@ -44,7 +44,11 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 * B.E (2004) in Computer Science and Engineering from Bangalore University, India. 
 
 # Contact
-sareena[at]cse[dot]iitm[dot]ac[dot]in
+
+Address: RISE lab, Department of Computer Science & Engineering, IIT Madras, Adyar, Chennai 600036, Tamil Nadu, India
+
+
+Email: sareena[at]cse[dot]iitm[dot]ac[dot]in
 
 
 ```
