@@ -22,7 +22,7 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 
 # Publications and Posters
 
-*   “POSTER: Towards Identifying Early Indicators of a Malware Infection”, at the 14th ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2019, Auckland, New Zealand.
+*   “Towards Identifying Early Indicators of a Malware Infection”, at the 14th ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2019, Auckland, New Zealand.
 
 *   “Eradicator: An Integrated Approach for Defense against Cyber Attacks in PLC based Industrial Control Systems”, at Embedded Security Challenge, Cyber Security Awareness Week (CSAW) 2017, IIT Kanpur. Our team won the First Place in the Embedded Security Challenge.
 
