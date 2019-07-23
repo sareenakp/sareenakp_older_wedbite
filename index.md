@@ -32,7 +32,7 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 
 # Awards
 
-* [Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2017.](https://csaw.engineering.nyu.edu/csaw17-winners#ESC)
+* [Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2017.](https://csaw.engineering.nyu.edu/archive/csaw17/embedded-security-challenge-winners-finalists)
 
 # Technical Skills
 
@@ -47,7 +47,7 @@ I am a Ph.D. (Integrated MS and Ph.D.) scholar in the Department of Computer Sci
 # Student Program Committees
 
 * Poster Jury at [IEEE Security and Privacy 2019.](https://www.ieee-security.org/TC/SP2019/cfposters.html)
-* Student PC in [IEEE Secrity and Privacy, 2019.](https://www.ieee-security.org/TC/SP2019/studentpc.html)
+* Student PC in [IEEE Security and Privacy, 2019.](https://www.ieee-security.org/TC/SP2019/studentpc.html)
 * Shadow PC in [ACM Internet Measurement Conference, 2018.](https://conferences.sigcomm.org/imc/2018/shadow/)
 
 
